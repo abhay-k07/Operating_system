@@ -1,0 +1,11 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore compiled object files
+*.o
+
+# Ignore executables (files with no extension or .exe)
+*.exe
+*.out
+leap_year
+prime
