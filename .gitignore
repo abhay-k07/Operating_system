@@ -9,3 +9,5 @@
 *.out
 leap_year
 prime
+fibonacci
+reverse
